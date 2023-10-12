@@ -11,3 +11,5 @@ apt update && apt upgrade -y && update-grub && sleep 2 && sysctl -w net.ipv6.con
 ````
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/tunel5/main/scp1.png)
+
+wa 087721815317
