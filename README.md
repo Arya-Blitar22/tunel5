@@ -12,4 +12,4 @@ apt update && apt upgrade -y && update-grub && sleep 2 && sysctl -w net.ipv6.con
 
 ![logo](https://raw.githubusercontent.com/Arya-Blitar22/tunel5/main/scp1.png)
 
-wa https://wa.me/6281999250149)https://wa.me/6281999250149
+wa https://wa.me/6281999250149
